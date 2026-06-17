@@ -12,7 +12,7 @@ I have hands-on experience building and deploying Generative AI solutions — fr
 
 Previously worked as an **AI Engineer Intern at Morphy AI (France, Remote)** where I built end-to-end agentic platforms with LangGraph, deployed on Google Cloud Run, and designed RAG pipelines with LangChain + Pinecone.
 
-I also work as a **Teaching Assistant at Ironhack Germany**, teaching Python, ML pipelines, and LLM applications to cohorts of 20+ students.
+I also work as a **Teaching Assistant at Ironhack Germany**, teaching Python, ML pipelines, and LLM applications.
 
 ---
 
